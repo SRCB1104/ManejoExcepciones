@@ -1,3 +1,4 @@
+//TrABAJO1
 public class Metodo {
     String cadena;
     int entero;
